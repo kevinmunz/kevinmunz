@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1>Kevin Munoz | <br/>Web Developer</h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>React Project</b>
+  - [La Paz, Bolivia - Interactive City Map & Data Visualization]
+- <b>.NET Core MVC App</b>
+  - [CPM-Driven Influencer Campaign Management Web App]
+
+<h2> 🤳 Connect with me:</h2>
+
+LinkedIn: https://linkedin.com/in/kevinmunozmercado
 
 <!--
 **kevinmunz/kevinmunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
