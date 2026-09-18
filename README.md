@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>React Project</b>
-  - [La Paz, Bolivia - Interactive City Map & Data Visualization]
+  - [La Paz, Bolivia - Interactive City Map & Data Visualization](https://github.com/kevinmunz/la-paz-city-map.git)
 - <b>.NET Core MVC App</b>
   - [CPM-Driven Influencer Campaign Management Web App]
 
