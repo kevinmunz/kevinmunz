@@ -5,7 +5,7 @@
 - <b>React Project</b>
   - [La Paz, Bolivia - Interactive City Map & Data Visualization](https://github.com/kevinmunz/la-paz-city-map.git)
 - <b>ASP.NET Core MVC App</b>
-  - [CPM-Driven Influencer Campaign Management Web App]
+  - [Reapify - Creator Campaign Management Web App](https://github.com/kevinmunz/reapify.git)
 
 <h2> 🤳 Connect with me:</h2>
 
